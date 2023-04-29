@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+
+# files of Composer dependencies that are not needed for the plugin
+/vendor
