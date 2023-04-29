@@ -2,6 +2,8 @@
 
 use Kirby\Cms\App as Kirby;
 
+@require_once __DIR__ . '/helpers.php';
+
 Kirby::plugin('fabianmichael/cachebuster', [
 	'options' => [
 		'active' => true,
