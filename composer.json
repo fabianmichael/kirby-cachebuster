@@ -2,7 +2,7 @@
   "name": "fabianmichael/kirby-cachebuster",
   "description": "Cachebusting for CSS and JS files in Kirby.",
   "type": "kirby-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "require": {
     "getkirby/composer-installer": "^1.2"
   },
