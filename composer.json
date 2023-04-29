@@ -1,5 +1,5 @@
 {
-  "name": "fabian/kirby-cachebuster",
+  "name": "fabianmichael/kirby-cachebuster",
   "type": "kirby-plugin",
   "version": "1.0.0",
   "require": {
